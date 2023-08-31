@@ -3,7 +3,7 @@
   <a href="https://linkedin.com/in/ilhmzis/">Linkedin</a> |
   <a href="https://instagram.com/ilhmzis/">Instagram</a> |
   <a href="https://github.com/ilhamazis">Github</a><br><br>
-  <img src="https://repository-images.githubusercontent.com/415421595/c116844b-4471-4865-b26f-88a4ec2ee8cb" style="width: 80%">
+  <img src="https://raw.githubusercontent.com/ilhamazis/ilhamazis.github.io/main/demo/profile.png" style="width: 80%">
 </p>
 
 ##   
