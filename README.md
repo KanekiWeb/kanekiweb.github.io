@@ -1,5 +1,5 @@
 <p align='center'>
-  <b>🎨 Follow me here 🎨</b><br>  
+  <b>Follow me here</b><br>  
   <a href="https://linkedin.com/in/ilhmzis/">Linkedin</a> |
   <a href="https://instagram.com/ilhmzis/">Instagram</a> |
   <a href="https://github.com/ilhamazis">Github</a><br><br>
