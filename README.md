@@ -1,16 +1,16 @@
 <p align='center'>
   <b>🎨 Follow me here 🎨</b><br>  
-  <a href="https://discord.gg/kaneki">Discord</a> |
-  <a href="https://www.youtube.com/channel/UC-XII5SSqbMOF1UX3N0Gl8g">YouTube</a> |
-  <a href="https://github.com/KanekiWeb">Github</a><br><br>
+  <a href="https://linkedin.com/in/ilhmzis/">Linkedin</a> |
+  <a href="https://instagram.com/ilhmzis/">Instagram</a> |
+  <a href="https://github.com/ilhamazis">Github</a><br><br>
   <img src="https://repository-images.githubusercontent.com/415421595/c116844b-4471-4865-b26f-88a4ec2ee8cb" style="width: 80%">
 </p>
 
 ##   
 
 ### 🧰 Support
-- Email: <kaneki_pro@protonmail.com>
-- Discord: https://discord.gg/JuEeGweHrb
+- Email: <ilhamazis380@gmail.com>
+- Linkedin: <linkedin.com/in/ilhmzis>
 
 ##  
 
