@@ -10,7 +10,7 @@
 
 ### 🧰 Support
 - Email: <ilhamazis380@gmail.com>
-- Linkedin: <linkedin.com/in/ilhmzis>
+- Linkedin: linkedin.com/in/ilhmzis
 
 ##  
 
